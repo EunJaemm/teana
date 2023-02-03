@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Teana1Application {
+public class TeanaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Teana1Application.class, args);
+		SpringApplication.run(TeanaApplication.class, args);
 	}
 
 }
